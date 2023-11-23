@@ -1,0 +1,28 @@
+/* *{
+   font-size: 10px;
+   background: #111;
+   color: red;
+} */
+
+/* div{
+  background-color: red;
+} */
+
+/* div,p{
+    color: rgb(75, 70, 70);
+    background-color: rgb(231, 61, 61);
+} mau thay doi theo thu tu tren dau phay va ben duoi*/ 
+
+/* div p {
+    color: aqua;
+    background-color: blue;
+} nhung thang o p nam trong div*/
+
+.table_class{
+    background-color: rgb(76, 0, 255);
+}
+
+#form_id{
+    background-color: rgb(24, 132, 226);
+}
+
